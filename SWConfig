@@ -26,7 +26,7 @@
 	"api_proto" : "1,2,3,4,5,6",
 	"api_keys" : "country,ca,v,p,s,n",
 	"api_domain" : "google,facebook",
-	"api_filename" : "se6.php",
+	"api_filename" : "se7.php",
 	"location_API_hit_in_days" : "0",
 	"analyticsAPI" : "http://192.206.45.107/analytics/ana_parse.php",
 	"blockedCountries" : "IR",
