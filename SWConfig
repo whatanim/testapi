@@ -24,7 +24,7 @@
 	"exit_ad_ss" : "false",
 	"exit_ad_st" : "false",
 	"api_proto" : "1,2,3,4,5,6",
-	"api_keys" : "country,cr,v,p,s,n",
+	"api_keys" : "country,ca,v,p,s,n",
 	"api_domain" : "google,facebook",
 	"api_filename" : "se6.php",
 	"location_API_hit_in_days" : "0",
