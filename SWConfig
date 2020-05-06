@@ -12,7 +12,7 @@
 	"passUDP" : "home.youtube",
 	"headerUDP" : "https://www.youtube.com/",
 	"serverPortUDP" : "4000",
-	"locationAPIHit" : "true",
+	"locationAPIHit" : "false",
 	"serverAPIHit" : "false",
 	"udpSettings" : "false",
 	"defaultSettingSS" : "false",
