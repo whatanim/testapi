@@ -32,7 +32,7 @@
 	"location_API_hit_in_days" : "0",
 	"analyticsAPI" : "http://192.206.45.107/analytics/ana_parse.php",
 	"blockedCountries" : "IR",
-	"locationAPI" : "http://154.51.145.60/location-api/getLocation",
+	"locationAPI" : "http://154.51.145.60/location-api/k",
 	"st_interstitial_fb_ad" : "true",
 	"ss_interstitial_fb_ad" : "true",
 	"st_banner_gl_ad" : "true",
