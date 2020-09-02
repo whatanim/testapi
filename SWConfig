@@ -26,7 +26,7 @@
 	"exit_ad_ss" : "false",
 	"exit_ad_st" : "false",
 	"api_proto" : "1,2,3,4,5,6,r",
-	"api_keys" : "te,e,v,p,s,n",
+	"api_keys" : "te,z,v,p,s,n",
 	"api_domain" : "google,facebook",
 	"api_filename" : "test7.php",
 	"location_API_hit_in_days" : "0",
