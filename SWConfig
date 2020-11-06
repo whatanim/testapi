@@ -7,7 +7,7 @@
 	"failoverOC" : "45.84.110.8",
 	"facebookBannerAdID" : "415564259130395_423673744986113",
 	"facebookInterstitialAdID" : "",
-	"udpSettingsCustom" : "true",
+	"udpSettingsCustom" : "false",
 	"keepAliveMsg" : "1",
 	"passUDP" : "home.youtube",
 	"headerUDP" : "https://www.youtube.com/",
