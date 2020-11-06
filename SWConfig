@@ -13,7 +13,7 @@
 	"headerUDP" : "https://www.youtube.com/",
 	"serverPortUDP" : "4000",
 	"locationAPIHit" : "false",
-	"serverAPIHit" : "false",
+	"serverAPIHit" : "true",
 	"udpSettings" : "false",
 	"defaultSettingSS" : "false",
 	"sendAnalytics" : "true",
