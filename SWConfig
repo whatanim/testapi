@@ -29,7 +29,7 @@
 	"api_keys" : ",j,v,p,s,n",
 	"api_domain" : "google,facebook",
 	"api_filename" : "se8.php",
-	"api_hit" : "1",
+	"api_hit" : "200",
 	"location_API_hit_in_days" : "0",
 	"analyticsAPI" : "http://192.206.45.107/analytics/ana_parse.php",
 	"blockedCountries" : "IR",
