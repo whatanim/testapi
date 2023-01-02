@@ -1,4 +1,8 @@
 
 {"defaultMessage": "Test",
 "defaultTitle": "Title",
-"intentUrl" : ""}
+"intentUrl" : "",
+"importantMessage": "Test",
+"importantTitle": "Title",
+"importantintentUrl" : "",
+"importantMessageVersion": "1"}
