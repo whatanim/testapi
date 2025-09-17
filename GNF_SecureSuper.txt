@@ -1,3 +1,0 @@
-{"defaultMessage": "Custom Notification",
-"defaultTitle": "Secure Super VPN",
-"intentUrl" : "https://securesupervpn.net"}
